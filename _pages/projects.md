@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Summary of past and ongoing projects
+description: Some of my past and ongoing projects. If you're interested in the code then head to the linked GitHub pages. 
 nav: true
-display_categories: [projects, software]
+display_categories:
 horizontal: false
 ---
 <div class="projects">

@@ -6,4 +6,5 @@ img: /assets/img/covidcommunities.png
 redirect: https://covidresponsemap.wales/
 importance: 2
 category: projects
+github: https://github.com/DynamicGenetics/COVID-19-Community-Response
 ---
