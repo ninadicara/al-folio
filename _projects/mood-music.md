@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mood Music
-description: Are music streaming behaviours associated with wellbeing?
+description: Are music streaming behaviours associated with wellbeing, and are they acceptable to use?
 img: /assets/img/mood-music.jpg
 category: projects
 importance: 3

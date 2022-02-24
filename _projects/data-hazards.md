@@ -2,7 +2,7 @@
 layout: page
 title: Data Hazards
 description: An ethical thinking framework for data scientists
-img: /assets/img/dataethics.png
+img: /assets/img/datahazards.png
 redirect: https://very-good-science.github.io/data-hazards/
 importance: 1
 category: projects

@@ -2,8 +2,8 @@
 layout: page
 title: can machines understand emotion?
 description: An interactive public exhibit about machine learning for mental health
-img: /assets/img/we-the-curious-2.jpeg
-importance: 5
+img: /assets/img/we-the-curious-2.jpg
+importance: 4
 category: projects
 github: https://github.com/DynamicGenetics/The-Learning-Machine
 ---

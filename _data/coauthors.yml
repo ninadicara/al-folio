@@ -1,18 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Haworth":
+  - firstname: ["Claire", "CMA", "C M A", "C.M.A", "Claire MA"]
+    url: https://research-information.bris.ac.uk/en/persons/claire-m-a-haworth
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Davis":
+  - firstname: ["Oliver", "SP", "O", "S.P.", "O. S. P.", "Oliver SP"]
+    url: https://research-information.bris.ac.uk/en/persons/oliver-s-davis
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Maggio":
+  - firstname: ["V", "V.", "Valerio"]
+    url: https://research-information.bris.ac.uk/en/persons/valerio-maggio
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Winstone": 
+  - firstname: ["Lizzy", "L"]
+    url: https://research-information.bris.ac.uk/en/persons/lizzy-winstone
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Sloan":
+  - firstname: ["Luke", "Luke S"]
+    url: https://www.cardiff.ac.uk/people/view/38080-sloan-luke
