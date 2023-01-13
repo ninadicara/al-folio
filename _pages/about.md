@@ -6,7 +6,7 @@ description: <a href=https://research-information.bris.ac.uk/en/persons/nina-di-
 
 profile:
   align: right
-  image: ND_lowres_landscape.jpg
+  image: profile.jpg
 
 
 news: false  # includes a list of news items
